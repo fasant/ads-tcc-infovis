@@ -1,0 +1,22 @@
+{
+  "name": "visualizacao",
+  "version": "1.0.0",
+  "description": "Trabalho de Conclusão de Curso",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fasant/InfoVIs.git"
+  },
+  "author": "Fabio Santos de Oliveira",
+  "license": "ISC",
+  "homepage": "https://github.com/fasant/InfoVIso#readme",
+  "keywords": [],
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.74.0",
+    "url-parse": "^1.1.3"
+  }
+}
