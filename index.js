@@ -47,7 +47,7 @@ function retornaServidor($, callback){
 
   var saida = "";
   
-  for(i = 0; i <= dados.length; i++){
+  for(i = 1; i <= dados.length-1; i++){
   	saida = saida + $(dados[i]).attr("href") + "\n";
   }
 
